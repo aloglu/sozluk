@@ -16,6 +16,6 @@ This repository includes a dictionary of geology that I've found on the archives
 
 You can preview the dataset on a [website](https://aloglu.github.io/sozluk/) with an included search functionality, or manipulate it in `.md` and `.xlsx` formats located in the `/formats` folder however you deem necessary.
 
-# Acknowledgement
+# Acknowledgment
 
 I do not know who the first person or institution it was that uploaded this dictionary to the internet, but I do thank them for their effort.
