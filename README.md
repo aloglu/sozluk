@@ -1,0 +1,2 @@
+# sozluk
+Yer Bilimleri Sözlüğü
